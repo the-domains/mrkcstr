@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-20T19:21:56.811Z'
-dateModified: '2016-03-20T19:21:22.643Z'
+description: Toronto Based Wine Professional
+datePublished: '2016-03-20T19:28:41.563Z'
+dateModified: '2016-03-20T19:28:10.022Z'
 title: Mark Coster
 author: []
 sourcePath: _posts/2016-03-20-mark-coster.md
@@ -23,4 +23,4 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b280a6a-b073-468a-9ba7-d25c9b1833a7.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1cf9f6ab-d1cf-42f1-9b75-b1362ebace9b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/312ebf81-4a40-4947-92c2-fff4c7e246bc.jpg)
