@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-20T19:21:14.216Z'
-dateModified: '2016-03-20T19:20:46.708Z'
+datePublished: '2016-03-20T19:21:56.811Z'
+dateModified: '2016-03-20T19:21:22.643Z'
 title: Mark Coster
 author: []
+sourcePath: _posts/2016-03-20-mark-coster.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-20-mark-coster.md
-published: true
 url: mark-coster/index.html
 _type: Article
 
