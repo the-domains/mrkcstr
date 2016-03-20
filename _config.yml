@@ -1,0 +1,28 @@
+name: Mark Coster
+favicon: null
+layout_spectrum: 0.4386093921493739
+typography_spectrum: 0.12433197000063956
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.76556486194022
+  lightness: 0.1524903834797442
+  saturation: 0.4444837064947933
+  rhythmicContrast: 0.8949450880754739
+purpose: []
